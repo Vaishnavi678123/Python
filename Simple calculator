@@ -1,0 +1,33 @@
+1 num1 = int(input("Enter first number: "))
+
+2 operator = input()
+
+3 num2 = int(input("Enter second number: "))
+
+4 if operator == '+':
+
+5 print(num1 + num2)
+
+6 elif operator == '-':
+
+7 print(num1 num2)
+
+8 elif operator == '*':
+
+9 print(num1 * num2)
+
+10 elif operator == '/':
+
+11 print(num1 / num2)
+
+12 elif operator == '%':
+
+13 print(num1 % num2)
+
+14 elif operator ==
+
+15 print(num1 // num2)
+
+16 elif operator == '**':
+
+17 print(num1 ** num2) I
