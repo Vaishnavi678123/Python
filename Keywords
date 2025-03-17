@@ -1,0 +1,13 @@
+1 #keywords
+
+2 help("keywords")
+
+3 #ASCII range is 0 to 127
+
+4- for i in range(128):
+
+5
+
+print(i, ":", chr(i))I
+
+6
