@@ -1,0 +1,15 @@
+1 # Define the input string
+
+2 bitwise_expr = "1A0B0C1"
+
+3 # Replace the characters with their respective bitwise operators
+
+4 5 # Evaluate the expression
+
+bitwise_expr = bitwise_expr.replace('A', ' & ').replace('B', ' | ').replace('C', '^')
+
+6 result = eva (bitwise_expr)
+
+7 # Print the result
+
+8 print("Result:", result)
