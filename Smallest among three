@@ -1,0 +1,29 @@
+#smallest among three numbers
+
+2 a = int(input())
+
+3 b = int(input())
+
+4 c = int(input())
+
+5
+
+6 if a = b == c:
+
+7
+
+print("The smallest is a, b, and c (all are equal)")
+
+8 elif a <= b and a <= c:
+
+9 print("a is smallest")
+
+10 elif b <= a and b <= c:
+
+11
+
+print("b is smallest")
+
+12 else:
+
+13 print("c is smallest")
