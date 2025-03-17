@@ -1,0 +1,5 @@
+streinput()
+
+2
+
+print(str[::-1])
