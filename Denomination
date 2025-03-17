@@ -1,0 +1,25 @@
+amount=int(input())
+
+2 five_hundred_notes=amount//500
+
+3 remaining_balance=amount%500
+
+4 print("five_hundred_notes (500):", five_hundred_notes)
+
+5 one_hundred_notes=remaining_balance//100
+
+6 remaining_amount=remaining_balance%100
+
+7 print("one_hundred_notes (100);",one_hundred_notes)
+
+8 fifty_notes=remaining_amount//50
+
+9 remaining_notes remaining_amount%50
+
+10 print("fifty_notes(50): ", fifty_notes)
+
+11 ten_notes=remaining_notes//10
+
+12 remaining_notes=remaining_notes%10
+
+13 print("ten_notes (50):",ten_notes)
