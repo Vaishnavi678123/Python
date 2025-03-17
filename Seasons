@@ -1,0 +1,29 @@
+#month based season
+
+2 month=int(input())
+
+3 if(month==1 or month==2):
+
+4 print("winter")
+
+5- elif(month==3 or month==4 or month==5):
+
+6 print("summer")
+
+7. elif(month==6 or month==7 or month==8 or month==9):
+
+8 print("monsoon")
+
+9 elif(month==10 or month==11 or month==12):
+
+10 print("autumn")
+
+11 else:
+
+12
+
+13
+
+print("invalid month")
+
+I
